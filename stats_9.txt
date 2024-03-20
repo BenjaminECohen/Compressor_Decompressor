@@ -1,0 +1,8 @@
+Compression Size: 9 bits per value.
+Data is written to bitstream of 16 bits / 2 bytes
+Max value in data is 29.700001
+Min value in data is 0.000000
+Bits dedicated to fit max value of 29.700001 is 5 bits which holds a max value of 31
+Bits dedicated to fit sign 0
+Bits used for value past decimal 4
+4 bits of unusued, zero'd space at the end of the output file
